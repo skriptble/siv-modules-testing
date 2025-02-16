@@ -1,3 +1,3 @@
-module github.com/skriptble/siv-modules-testing/v2
+module github.com/skriptble/siv-modules-testing
 
 go 1.23.1
